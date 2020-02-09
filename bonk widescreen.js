@@ -2,7 +2,7 @@
 // @name         Bonk2.io Stretch Widescreen
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
+// @description  makes bonk 2 widescreen :O
 // @author       You
 // @match        https://bonk2.io/*/
 // @grant        none
